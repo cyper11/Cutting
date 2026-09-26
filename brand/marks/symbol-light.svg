@@ -1,15 +1,25 @@
 <svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_16_30)">
-<mask id="mask0_16_30" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="400" height="400">
-<path d="M400 0H0V400H400V0Z" fill="white"/>
-</mask>
-<g mask="url(#mask0_16_30)">
-<path d="M400 117.163V282.838L282.838 400H117.163L0 282.838V117.163L117.163 0H282.838L400 117.163ZM100 100V300H300V100H100Z" fill="white"/>
-</g>
-</g>
-<defs>
-<clipPath id="clip0_16_30">
-<rect width="400" height="400" fill="white"/>
-</clipPath>
-</defs>
+  <rect width="400" height="400" rx="60" fill="#FFFFFF" />
+  <!-- C1P Geometric Monogram -->
+  <path
+    d="M 280 90 C 235 60 180 55 140 70 C 85 90 50 140 50 205 C 50 270 90 320 160 330 C 210 335 260 310 290 275"
+    stroke="#0A0A0A"
+    stroke-width="32"
+    stroke-linecap="round"
+  />
+  <path
+    d="M 150 150 L 180 120 V 285"
+    stroke="#0A0A0A"
+    stroke-width="30"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <path
+    d="M 230 120 H 290 C 330 120 350 150 350 180 C 350 215 325 240 290 240 H 230 V 285"
+    stroke="#0A0A0A"
+    stroke-width="30"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <circle cx="290" cy="180" r="16" fill="#0A0A0A" />
 </svg>

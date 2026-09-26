@@ -36,7 +36,7 @@ fn main() {
         cx.open_window(
             WindowOptions {
                 titlebar: Some(TitlebarOptions {
-                    title: Some(SharedString::from("OpenCut")),
+                    title: Some(SharedString::from("C1P Studio — Create. Innovate. Progress.")),
                     ..Default::default()
                 }),
                 window_bounds: Some(WindowBounds::Maximized(bounds)),

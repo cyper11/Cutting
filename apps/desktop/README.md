@@ -1,6 +1,6 @@
-# OpenCut Desktop
+# C1P Studio Desktop
 
-Built with [GPUI](https://www.gpui.rs).
+Built with [GPUI](https://www.gpui.rs). Part of the **C1P — Create. Innovate. Progress.** suite.
 
 > [!WARNING]
 > Very early. Right now this is just a window that opens.

@@ -1,17 +1,14 @@
-<svg width="1200" height="400" viewBox="0 0 1200 400" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="400" fill="#0D100E" />
-  <!-- Logo C1P ↗ -->
-  <g transform="translate(100, 110) scale(2.2)">
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" rx="12" fill="#0D100E" />
+  <g transform="translate(6, 14) scale(0.165)">
     <!-- C -->
     <path d="M 85 22 C 74 13 60 9 44 9 C 19 9 0 28 0 50 C 0 72 19 91 44 91 C 60 91 74 87 85 78 L 73 59 C 66 64 56 67 45 67 C 33 67 24 59 24 50 C 24 41 33 33 45 33 C 56 33 66 36 73 41 Z" fill="#F5F5F0" />
     <!-- 1 -->
     <path d="M 97 45 L 119 25 L 119 91 L 140 91 L 140 10 L 117 10 L 97 32 Z" fill="#F5F5F0" />
     <!-- P -->
     <path d="M 152 10 L 195 10 C 218 10 234 24 234 44 C 234 64 218 78 195 78 L 173 78 L 173 91 L 152 91 Z M 173 31 L 173 57 L 194 57 C 205 57 212 51 212 44 C 212 37 205 31 194 31 Z" fill="#F5F5F0" />
-    <!-- Arrow ↗ -->
+    <!-- Lime Arrow ↗ -->
     <line x1="248" y1="82" x2="296" y2="34" stroke="#C8FF3D" stroke-width="16" stroke-linecap="square" />
     <path d="M 252 34 L 297 34 L 297 79" fill="none" stroke="#C8FF3D" stroke-width="16" stroke-linecap="square" stroke-linejoin="miter" />
   </g>
-  <!-- Tagline -->
-  <text x="800" y="240" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="700" letter-spacing="8px" fill="#A7ADA5">CREATE. INNOVATE. PROGRESS.</text>
 </svg>
